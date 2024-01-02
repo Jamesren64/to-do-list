@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/to-do-list/static/js/main.2820b767.js",
+    "static/js/787.30b79000.chunk.js": "/to-do-list/static/js/787.30b79000.chunk.js",
+    "index.html": "/to-do-list/index.html",
+    "main.2820b767.js.map": "/to-do-list/static/js/main.2820b767.js.map",
+    "787.30b79000.chunk.js.map": "/to-do-list/static/js/787.30b79000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2820b767.js"
+  ]
+}
